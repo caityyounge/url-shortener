@@ -26,8 +26,3 @@
 
 
 
-[Back To The Top](#read-me-template)
-
----
-
-
